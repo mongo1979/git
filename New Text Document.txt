@@ -1,0 +1,6 @@
+this is a file to learn git.
+this is the second line.
+The third line.
+The fourth line.
+The fifth line.
+End.
